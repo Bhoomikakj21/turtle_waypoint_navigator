@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim"/>
+    <node pkg="turtle_waypoint_navigator" type="waypoint_navigator.py" name="waypoint_navigator" output="screen"/>
+</launch>
