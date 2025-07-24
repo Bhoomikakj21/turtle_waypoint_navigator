@@ -4,7 +4,7 @@
   <version>0.0.1</version>
   <description>A ROS package that moves the turtlesim turtle through a list of waypoints using proportional control.</description>
 
-  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <maintainer email="bhoomikakj20@gmail.com">bhoomikakj</maintainer>
   <license>MIT</license>
 
   <!-- Build dependencies -->
